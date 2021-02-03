@@ -1,0 +1,23 @@
+---
+title: 'Partner HW1'
+author: "Andrew Fahmy"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Dana Thacker (thackerdana)
+
+In the most recent commit she added 3 files: `hw1.Rmd`, `hw1.html`, and
+`DataArchitect2.png`
+
+The commit ID is fcacde1b8fb8fcdb26ddf1ee0f69319badf1d8f0
+
+I had no issues kniting the file, but the html output had changes from the one
+that was already in the repo. I think is because we used different versions
+of Rstudio.
+
+I had no issues with git. It worked well for this lab.
